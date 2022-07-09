@@ -1,5 +1,5 @@
 # Hi there, I'm Reem  👋
-## A computer science student,Software developer, and Problem Solver!!
+## A computer science student,software developer, and problem solver!!
 
 - 🌱 I’m currently learning Android IOS 
 - 🥅 2022 Goals: Learn more about machine learning .
