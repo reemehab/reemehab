@@ -20,12 +20,12 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/reemehab__/#gh-dark-mode-only)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
   <img align="left" alt="reemehab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=reemehab&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
 <details>
-  <summary> ✨Most used Languages</summary>
+  <summary> Most used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemehab&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]
 
