@@ -1,10 +1,11 @@
-# Hi there, I'm Reem 
-## I'm a Computer Science student, Software developer, and Problem Solver!!
+# Hi there, I'm Reem  👋
+## a Computer Science student,Software developer, and Problem Solver!!
 
 - 🌱 I’m currently learning Android IOS 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about machine leaarning
-- ⚡ Fun fact: I could eat sushi everyday for the rest of my life 
+- 🥅 2022 Goals: Learn more about machine learning .
+- ⚡ Fun fact: I could eat sushi everyday for the rest of my life
+- 📫 How to reach me reemehab9732@gmail.com 
 
 ### Connect with me:
 
@@ -25,7 +26,8 @@
 </details>
 
 <details>
+  <summary> 🌟Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemehab&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemehab&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]
 
 </details>
