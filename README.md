@@ -2,10 +2,11 @@
 ## a Computer Science student,Software developer, and Problem Solver!!
 
 - 🌱 I’m currently learning Android IOS 
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about machine learning .
 - ⚡ Fun fact: I could eat sushi everyday for the rest of my life
 - 📫 How to reach me reemehab9732@gmail.com 
+- 👯 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
+
 
 ### Connect with me:
 
@@ -20,13 +21,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="reemehab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=reemehab&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
 
 <details>
-  <summary> 🌟Languages</summary>
+  <summary> ✨Most used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemehab&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]
 
