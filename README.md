@@ -1,8 +1,8 @@
 # Hi there, I'm Reem  👋
 ## A computer science student,software developer, and problem solver!!
 
-- 🌱 I’m currently participating as a problem solver at coach academy
-- 🥅 2022 Goals: Learn more about machine learning .
+- 🌱 I’m currently participating as a problem solver at coach academy & software tester in _VOIS
+- 🥅 2022 Goals: Learn more about machine learning & deep learning .
 - ⚡ Fun fact: I could eat sushi everyday for the rest of my life
 - 📫 How to reach me reemehab9732@gmail.com 
 - 👯 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
